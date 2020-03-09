@@ -71,7 +71,7 @@ new_d1 %>%
 
 head(new_d2)
 -----------------------------------------
-# propensity score: weather, by month
+
 install.packages("readxl")
 library(readxl)
 alcohol <- read_excel('/Users/miana/Downloads/Alcohol Consumption by State.xlsx')
